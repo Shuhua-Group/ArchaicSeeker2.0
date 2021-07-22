@@ -1,0 +1,3 @@
+remap	contig
+examples/genetic_map_chr21_combined_b37.txt	21
+examples/genetic_map_chr22_combined_b37.txt	22
