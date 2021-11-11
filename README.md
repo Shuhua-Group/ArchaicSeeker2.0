@@ -1,4 +1,4 @@
-# ArchaicSeeker2.0
+## ArchaicSeeker2.0
 ArchaicSeeker is a series of software for detecting archaic introgression sequences and reconstructing introgression history. The latest version of this series, ArchaicSeeker 2.0, has the following three notable improvements compared with the original version of this software. First, it can automatically determine the boundary of each introgressed sequence. Next, it is capable of tracing both known and unknown ancestral sources of a given introgressed sequence. Finally, it has the ability to reconstruct the introgression history with more sophisticated introgression models.
 
 The usage of ArchaicSeeker 2.0 can be found in Manual for ArchaicSeeker 2.0.pdf.
