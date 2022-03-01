@@ -8,3 +8,6 @@ If you use our software in your research, please cite the following paper:
 Yuan K, Ni X, Liu C, Pan Y, Deng L, Zhang R, Gao Y, Ge X, Liu J, Ma X, Lou H, Wu T, Xu S. Refining models of archaic admixture in Eurasia with ArchaicSeeker 2.0. Nat Commun. 2021 Oct 29;12(1):6232. doi: 10.1038/s41467-021-26503-5.
 
 https://www.nature.com/articles/s41467-021-26503-5
+
+The link of this GitHub repo at Zenodo is as follows:
+https://doi.org/10.5281/zenodo.5526693
