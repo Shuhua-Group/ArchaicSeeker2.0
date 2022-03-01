@@ -10,4 +10,4 @@ Yuan K, Ni X, Liu C, Pan Y, Deng L, Zhang R, Gao Y, Ge X, Liu J, Ma X, Lou H, Wu
 https://www.nature.com/articles/s41467-021-26503-5
 
 The link of this GitHub repo at Zenodo is as follows:
-https://doi.org/10.5281/zenodo.5526693
+https://doi.org/10.5281/zenodo.5526693.
