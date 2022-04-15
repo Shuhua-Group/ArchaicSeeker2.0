@@ -13,7 +13,7 @@ and
 
 Zhang R, Yuan K, Xu S. Detecting archaic introgression and modeling multiple-wave admixture with ArchaicSeeker 2.0. Star Protocols. 2022 June 17. doi: 10.1016/j.xpro.2022.101314.
 
-https://star-protocols.cell.com/protocols/1572#article-info
+https://star-protocols.cell.com/protocols/1572
 
 The link of this GitHub repo at Zenodo is as follows:
 https://doi.org/10.5281/zenodo.5526693.
