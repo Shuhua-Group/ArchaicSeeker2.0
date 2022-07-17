@@ -17,3 +17,6 @@ https://star-protocols.cell.com/protocols/1572
 
 The link of this GitHub repo at Zenodo is as follows:
 https://doi.org/10.5281/zenodo.5526693.
+
+Correction to the protocol:
+The statement in the top of page 4 (the reference allele in the input VCF files should be same as that of ancestral allele states) should be "the reference allele in the input VCF files should be same as that of reference genome".
