@@ -19,7 +19,7 @@ The link of this GitHub repo at Zenodo is as follows:
 https://doi.org/10.5281/zenodo.5526693.
 
 #### Update：
-2022.09: We add the pipeline to identify the archaic allele which can be found in the folder "ArchaicAllele". The detailed algorithm can be referred to the methods in AS2 NC paper. 
+2022.09: We add the pipeline to identify the archaic allele which can be found in the folder "ArchaicAllele". The detailed algorithm can be referred to the methods in AS2 NC paper.
 
 #### Correction to the protocol:
 The statement in the top of page 4 (the reference allele in the input VCF files should be same as that of ancestral allele states) should be "the reference allele in the input VCF files should be same as that of reference genome".
