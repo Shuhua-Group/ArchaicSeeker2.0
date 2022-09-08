@@ -10,7 +10,7 @@ The usage of ArchaicSeeker 2.0 can be found in Manual for ArchaicSeeker 2.0.pdf.
 The statement in the top of page 4 (the reference allele in the input VCF files should be same as that of ancestral allele states) should be "the reference allele in the input VCF files should be same as that of reference genome".
 
 #### Citations:
-If you use our software in your research, please cite the following papers:
+If you use AS2 in your research, please cite the following papers:
 
 Yuan K, Ni X, Liu C, Pan Y, Deng L, Zhang R, Gao Y, Ge X, Liu J, Ma X, Lou H, Wu T, Xu S. Refining models of archaic admixture in Eurasia with ArchaicSeeker 2.0. Nat Commun. 2021 Oct 29;12(1):6232. doi: 10.1038/s41467-021-26503-5. https://www.nature.com/articles/s41467-021-26503-5
 
