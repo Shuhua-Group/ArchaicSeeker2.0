@@ -6,7 +6,7 @@ The usage of ArchaicSeeker 2.0 can be found in Manual for ArchaicSeeker 2.0.pdf.
 #### Update：
 2022.09: We add the pipeline to identify the archaic allele which can be found in the folder "ArchaicAllele". For detailed algorithms, you can refer to the methods in AS2 NC paper.
 
-2022.11: We add the archaic introgressed segments in East Asia, West Eurasia, South Asia, and Papuan detected by AS2, which can be found in the folder "IntrogressedSeg".
+2022.11: We add the archaic introgressed segments in East Asian, West Eurasian, South Asian, and Papuan detected by AS2, which can be found in the folder "IntrogressedSeg".
 
 #### Correction to the protocol:
 The statement in the top of page 4 (the reference allele in the input VCF files should be same as that of ancestral allele states) should be "the reference allele in the input VCF files should be same as that of reference genome".
